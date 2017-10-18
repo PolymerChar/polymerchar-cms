@@ -1,5 +1,5 @@
 ---
-title: P Chart
+title: P Chart 1
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
